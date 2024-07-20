@@ -1,0 +1,9 @@
+numpy==1.26.4
+opencv-python==4.10.0.84
+pygame==2.6.0
+soundfile==0.12.1
+torch==2.3.1
+torchaudio==2.3.1
+torchvision==0.18.1
+transformers==4.41.2
+ultralytics @ git+https://github.com/THU-MIG/yolov10.git@aad320dd80b56694e590c950b25060a134966496

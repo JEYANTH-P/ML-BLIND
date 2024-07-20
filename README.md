@@ -2,6 +2,10 @@
 
 # Object - depth
 
-Install all the necessary requirements.
+To install the necessary dependencies, run the following command:
+
+```sh
+pip install -r requirement.txt
+
 
 Install and place the Yolov10x.pt file at object-depth from [here](https://github.com/jameslahm/yolov10/releases/download/v1.0/yolov10x.pt)
