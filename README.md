@@ -2,6 +2,8 @@
 
 ## Object - depth
 
+### INSTALLATION
+
 To install the necessary dependencies, run the following command:
 
 ```sh
